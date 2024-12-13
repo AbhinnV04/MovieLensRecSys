@@ -1,0 +1,74 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+egg-info/
+pip-wheel-metadata/
+sharepython/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python virtual environments
+*.env
+*.venv
+*.virtualenv
+.env/
+
+# Logs
+*.log
+
+# CSV and Excel files
+*.csv
+*.xlsx
+
+# Other files
+*.DS_Store
+*.directory
+*.sublime-project
+*.sublime-workspace
+*.tmp
+*.bak
+
+# Misc files
+ml-latest/
+ml-latest-small/
+
+# Sphinx documentation
+docs/_build/
